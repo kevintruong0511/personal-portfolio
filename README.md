@@ -97,7 +97,7 @@ In my free time, I enjoy coding, running, and reading books.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kevintruong0511/personal-portfolio.git
 ```
 
 Open `index.html` in your browser.
