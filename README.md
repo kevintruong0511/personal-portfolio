@@ -52,14 +52,14 @@ The purpose of this project is to introduce myself and demonstrate my frontend f
 
 ## 📂 Project Structure
 
+```text
 project-root/
-│
 ├── index.html
 ├── style.css
 ├── khangbara.png
 ├── webpreview.png
 └── README.md
-
+```
 
 ---
 
